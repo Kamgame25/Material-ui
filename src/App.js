@@ -30,7 +30,7 @@ function App() {
               //   m: 1,
               // },
           }}>
-          <h2>Zaloguj się aby kontynować</h2>
+          <h2>Zaloguj się aby kontynuować</h2>
           <TextField
               required
               id="outlined-required"
